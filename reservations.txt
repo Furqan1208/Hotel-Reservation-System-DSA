@@ -1,0 +1,4 @@
+Deluxe Room,HXgS73,1,2,23,1,anas
+Penthouse,jPvtCu,1,2,8,0,anas
+Deluxe Room,aHKoFa,12,2,15,0,fazool
+Standard Room,sx22N9,2,1,6,0,anas
